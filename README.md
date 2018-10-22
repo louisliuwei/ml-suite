@@ -1,4 +1,8 @@
-![](docs/tutorials/img/xlnx-ml-suite.png)  
+<table style="width:100%">
+<tr>
+<th width="100%" colspan="6"><img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="30%"/><h1>Xilinx ML Suite</h2>
+</th>
+</table>
   
 
 The Xilinx Machine Learning (ML) Suite provides users with the tools to develop and deploy Machine Learning applications for Real-time Inference. It provides support for many common machine learning frameworks such as Caffe, Tensorflow, and MXNet.  
